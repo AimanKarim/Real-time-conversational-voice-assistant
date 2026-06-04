@@ -1,0 +1,8 @@
+openai 
+sounddevice 
+numpy
+wavio 
+simpleaudio
+sounddevice
+python-dotenv
+playsound
